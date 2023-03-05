@@ -2,10 +2,10 @@ owner: wakatime
 repo: statuspage
 user-agent: alanhamlett
 sites:
-  - name: Website
-    url: https://wakatime.com
-  - name: API
-    url: https://api.wakatime.com/api/v1/meta
+  - name: Disdik
+    url: https://disdik.bekasikota.go.id
+  - name: Diskominfostandi
+    url: https://diskominfo.bekasikota.go.id
   - name: Dashboard
     url: $SECRET_SITE
 notifications:
